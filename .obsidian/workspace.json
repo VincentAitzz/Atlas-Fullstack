@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "8420e018c2c0d890",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c8b012caa4b7d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f482e5609e5617ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Arquitectura Frontend moderna.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura Frontend moderna"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f095dcf6f25559",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34e90a41ef2f678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d3f6d95ddfd5a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "585269d32e9d167e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e58abd7733c7b31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e04e55c827f168d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a300b45c41ab3d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ce966b3de82dabc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend/Arquitectura Frontend moderna.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arquitectura Frontend moderna"
+            }
+          },
+          {
+            "id": "92dd127f845b2464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Arquitectura y Fundamentos/Principios SOLID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Principios SOLID"
+            }
+          },
+          {
+            "id": "f9623bf93f8eb6a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df95adc8cbfcc242",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4b8bc642e2e35d03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Arquitectura y Fundamentos/Principios SOLID.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Principios SOLID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f482e5609e5617ab",
+  "lastOpenFiles": [
+    "Frontend/01.- Indice Frontend.md",
+    "Frontend/Arquitectura Frontend moderna.md",
+    "Frontend/Buenas Practicas Frontend.md",
+    "Frontend/Estado y comunicacion con las APIs.md",
+    "Frontend/Fundamentos CSS.md",
+    "Frontend/Fundamentos HTML.md",
+    "Frontend/Fundamentos JavaScript.md",
+    "Arquitectura y Fundamentos/Ciclo de Vida del Software (SDLC).md",
+    "Arquitectura y Fundamentos/Patrones de Software.md",
+    "Arquitectura y Fundamentos/Principios SOLID.md",
+    "Arquitectura y Fundamentos/Redes esenciales para desarrollo web.md",
+    "Arquitectura y Fundamentos/Arquitectura orientada a pruebas.md",
+    "Arquitectura y Fundamentos/Arquitectura de controladores y servicios.md",
+    "Arquitectura y Fundamentos/Arquitectura de aplicaciones web modernas.md",
+    "Arquitectura y Fundamentos/01.- Indice Arquitectura y Fundamentos.md",
+    "Arquitectura y Fundamentos/Buenas Practicas Codigo.md",
+    "Arquitectura y Fundamentos/Capas de una aplicacion.md",
+    "Arquitectura y Fundamentos/Diseño de APIs.md",
+    "Arquitectura y Fundamentos/Documentacion tecnica de proyectos.md",
+    "Fundamentos JavaScript.md",
+    "Untitled.canvas",
+    "Patrones_de_Software.md",
+    "2025-11-11.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Canvas Global",
+    "Plantillas y estructuras",
+    "Seguridad y Pentesting",
+    "DevOps",
+    "Bases de datos",
+    "Backend",
+    "Frontend",
+    "Welcome.md",
+    "Arquitectura y Fundamentos"
+  ]
+}
